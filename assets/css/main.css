@@ -911,7 +911,7 @@ section,
 .hero .icon-box .description {
   font-size: 15px;
   margin-bottom: 0;
-  color: color-mix(in srgb, var(--default-color), transparent 40%);
+  color: #000;
 }
 
 .hero .icon-box .icon {
